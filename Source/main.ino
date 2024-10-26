@@ -1,5 +1,5 @@
-const int outputPin1 = 15; // D13 for Square Wave
-const int outputPin2 = 2;  // D12 for Square Wave
+const int outputPin1 = 15; // D15 for Square Wave
+const int outputPin2 = 0;  // D0 for Square Wave
 const int switchPin = 5;    // D5 for switch input
 const int analogPin1 = A0;  // A0 for analog input
 const int analogPin2 = A5;  // A1 for analog input

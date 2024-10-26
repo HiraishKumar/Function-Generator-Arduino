@@ -55,7 +55,7 @@ Here is the schematic of the square wave generator with RC filtering to produce 
 | **Component**            | **Arduino Pin** |
 |--------------------------|-----------------|
 | Square Wave Output 1     | Pin 15          |
-| Square Wave Output 2     | Pin 2           |
+| Square Wave Output 2     | Pin 0           |
 | Switch                   | Pin 5           |
 | Triangle Wave Analog In  | Analog Pin A0   |
 | Sine Wave Analog In      | Analog Pin A5   |
